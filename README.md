@@ -1,2 +1,5 @@
 # Documentation_Crawler
-Documentation Crawler
+
+## Requirements:
+
+This script requires Playwright for Python along with Chromium to be installed.
