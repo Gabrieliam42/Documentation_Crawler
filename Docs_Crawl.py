@@ -19,7 +19,7 @@ model = AutoModel.from_pretrained("sentence-transformers/all-MiniLM-L6-v2").to(d
 
 sys.setrecursionlimit(10000)
 
-MAX_DEPTH = 88
+MAX_DEPTH = 124
 ARUN_TIMEOUT = 30.0
 
 def safe_filename(name: str) -> str:
@@ -165,4 +165,5 @@ if __name__ == "__main__":
     main()
 
 # Script Developer: Gabriel Mihai Sandu
+
 # GitHub Profile: https://github.com/Gabrieliam42
