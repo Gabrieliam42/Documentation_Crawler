@@ -4,7 +4,7 @@
 
 There is a requirements.txt available.
 
-Also this script requires Playwright for Python along with Chromium to be installed.
+Note: This script also requires Playwright for Python along with Chromium to be installed.
 
 ## Installing Playright and Chromium:
 
