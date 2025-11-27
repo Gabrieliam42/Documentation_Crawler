@@ -10,10 +10,10 @@ Note: This script also requires Playwright for Python along with Chromium to be 
 
 ### On Windows:
 
-python -m pip install playwright
-python -m playwright install chromium
+* python -m pip install playwright
+* python -m playwright install chromium
 
 ### On Linux or WLS 2:
 
-python3 -m playwright install
-python3 -m playwright install chromium
+* python3 -m playwright install
+* python3 -m playwright install chromium
