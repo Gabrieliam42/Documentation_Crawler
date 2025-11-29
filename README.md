@@ -15,3 +15,6 @@ Note: This script also requires Playwright Chromium to be installed.
 ### On Linux or WLS 2:
 
 * python3 -m playwright install chromium
+
+
+Tested On Docker Ubuntu WSL2, and on Windows 11.
